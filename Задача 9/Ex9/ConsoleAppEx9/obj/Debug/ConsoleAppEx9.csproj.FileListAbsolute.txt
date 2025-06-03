@@ -1,0 +1,12 @@
+C:\Users\Vlad\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 9\Ex9\ConsoleAppEx9\bin\Debug\ConsoleAppEx9.exe
+C:\Users\Vlad\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 9\Ex9\ConsoleAppEx9\bin\Debug\ConsoleAppEx9.pdb
+C:\Users\Vlad\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 9\Ex9\ConsoleAppEx9\obj\Debug\ConsoleAppEx9.csproj.AssemblyReference.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 9\Ex9\ConsoleAppEx9\obj\Debug\ConsoleAppEx9.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 9\Ex9\ConsoleAppEx9\obj\Debug\ConsoleAppEx9.exe
+C:\Users\Vlad\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 9\Ex9\ConsoleAppEx9\obj\Debug\ConsoleAppEx9.pdb
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 9\Ex9\ConsoleAppEx9\bin\Debug\ConsoleAppEx9.exe
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 9\Ex9\ConsoleAppEx9\bin\Debug\ConsoleAppEx9.pdb
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 9\Ex9\ConsoleAppEx9\obj\Debug\ConsoleAppEx9.csproj.AssemblyReference.cache
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 9\Ex9\ConsoleAppEx9\obj\Debug\ConsoleAppEx9.csproj.CoreCompileInputs.cache
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 9\Ex9\ConsoleAppEx9\obj\Debug\ConsoleAppEx9.exe
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 9\Ex9\ConsoleAppEx9\obj\Debug\ConsoleAppEx9.pdb
