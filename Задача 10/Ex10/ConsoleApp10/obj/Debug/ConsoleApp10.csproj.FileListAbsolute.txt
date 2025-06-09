@@ -1,0 +1,12 @@
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 10\Ex10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 10\Ex10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 10\Ex10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 10\Ex10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 10\Ex10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 10\Ex10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
+C:\Users\Vlad\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 10\Ex10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\Vlad\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 10\Ex10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\Vlad\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 10\Ex10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 10\Ex10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 10\Ex10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\Vlad\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 10\Ex10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
