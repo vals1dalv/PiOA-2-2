@@ -1,0 +1,6 @@
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 8\Ex8\ConsoleAppEx8\bin\Debug\ConsoleAppEx8.exe
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 8\Ex8\ConsoleAppEx8\bin\Debug\ConsoleAppEx8.pdb
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 8\Ex8\ConsoleAppEx8\obj\Debug\ConsoleAppEx8.csproj.AssemblyReference.cache
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 8\Ex8\ConsoleAppEx8\obj\Debug\ConsoleAppEx8.csproj.CoreCompileInputs.cache
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 8\Ex8\ConsoleAppEx8\obj\Debug\ConsoleAppEx8.exe
+C:\Users\nekij\OneDrive\Рабочий стол\Образование\Программирование и Основы Алгоритмизации\Программы\Задача 8\Ex8\ConsoleAppEx8\obj\Debug\ConsoleAppEx8.pdb
