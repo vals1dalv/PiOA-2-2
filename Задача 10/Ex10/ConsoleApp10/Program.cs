@@ -22,17 +22,9 @@ namespace Lab10
             }
 
             Console.Write("Введите кол-во столбцов матрицы (>=4): ");
-            while (!int.TryParse(Console.ReadLine(), out colCount) || colCount < 4)
+            while (!int.TryParse(Console.ReadLine(), out colCount) || colCount != rowCount)
             {
-                Console.Write("Ошибка! Введите целое число, не меньше 4: ");
-            }
-
-            // Ограничение для неквадратной матрицы
-            if (rowCount != colCount)
-            {
-                Console.WriteLine("Для определителя нужна квадратная матрица. Программа завершена.");
-                Console.ReadKey();
-                return;
+                Console.Write("Ошибка! Введите целое число, не меньше 4 и равное числу строк: ");
             }
 
             int n = rowCount;
